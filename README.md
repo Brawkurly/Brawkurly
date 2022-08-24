@@ -17,24 +17,29 @@
 
 ### 📅 개발 기간
 
-2022-08-19 ~ 2022-08-24
+#### 2022-08-19 ~ 2022-08-24
 
 ### 기술 스택 
 <div>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black">
   <img src="https://img.shields.io/badge/react-skyblue?style=for-the-badge&logo=react&logoColor=white">
   <img src="https://img.shields.io/badge/html-red?style=for-the-badge&logo=html&logoColor=black">
-    <img src="https://img.shields.io/badge/css-blue?style=for-the-badge&logo=css&logoColor=black">
-  <img src="https://img.shields.io/badge/Nginx-green?style=for-the-badge&logo=nginx&logoColor=black">  
-  <img src="https://img.shields.io/badge/ubuntu-black?style=for-the-badge&logo=ubuntu&logoColor=red">    
-  <img src="https://img.shields.io/badge/aws-orange?style=for-the-badge&logo=aws&logoColor=red">  
-  <img src="https://img.shields.io/badge/docker-skyblue?style=for-the-badge&logo=docker&logoColor=white">  
+  <img src="https://img.shields.io/badge/css-blue?style=for-the-badge&logo=css&logoColor=black">
+ </div>
+  <div>
   <img src="https://img.shields.io/badge/java-red?style=for-the-badge&logo=java&logoColor=white">  
   <img src="https://img.shields.io/badge/springboot-green?style=for-the-badge&logo=spring&logoColor=white">  
   <img src="https://img.shields.io/badge/springdatajpa-green?style=for-the-badge&logo=spring&logoColor=white">  
   <img src="https://img.shields.io/badge/mysql-yellow?style=for-the-badge&logo=mysql&logoColor=blue">  
   <img src="https://img.shields.io/badge/redis-red?style=for-the-badge&logo=redis&logoColor=black">  
-</div>  
+</div> 
+ <div>
+  <img src="https://img.shields.io/badge/Nginx-green?style=for-the-badge&logo=nginx&logoColor=black">  
+  <img src="https://img.shields.io/badge/ubuntu-black?style=for-the-badge&logo=ubuntu&logoColor=red">    
+  <img src="https://img.shields.io/badge/aws-orange?style=for-the-badge&logo=aws&logoColor=red">  
+  <img src="https://img.shields.io/badge/docker-skyblue?style=for-the-badge&logo=docker&logoColor=white">
+ </div>
+ 
   
 <br>
     
@@ -42,7 +47,7 @@
    
 ## 📌 프로젝트 구성
 
-![image](https://user-images.githubusercontent.com/55649302/186343998-bde2bf6f-0432-4ba1-be22-5573a89ca30a.png)
+![image](https://user-images.githubusercontent.com/55649302/186349932-c9a60d01-d59d-41d0-a702-d37a2d7f6f83.png)
 
 
 ### 1. 오늘의 판매 현황
